@@ -1,4 +1,4 @@
-# Task6--Host-and-deploy-a-web-application-on-the-cloud
+# Task6- Host and deploy a web application on the cloud
 Short Note :
 
 Deployment Steps (AWS EC2):
